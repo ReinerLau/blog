@@ -39,6 +39,12 @@ nvm ls
 ```sh
 nvm ls-remote
 ```
+
+查看当前 node 版本安装位置
+
+```sh
+which node
+```
 ## 疑难解答
 
 > `nvm ls-remote` 只有 iojs 版
